@@ -1,0 +1,55 @@
+{
+  "file": "RAW_House1_Part1.csv",
+  "total_rows": 4377877,
+  "invalid_dates": 0,
+  "dup_time_strings": 645514,
+  "dup_unix_timestamps": 1004404,
+  "non_positive_steps": 1003951,
+  "interval_stats": {
+    "min_sec": -3597.0,
+    "p01_sec": 0.0,
+    "p05_sec": 0.0,
+    "median_sec": 3.0,
+    "p95_sec": 15.0,
+    "p99_sec": 15.0,
+    "max_sec": 3594414.0
+  },
+  "null_counts": {
+    "Time": 0,
+    "Unix": 0,
+    "Aggregate": 0,
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  },
+  "extreme_appliance_spikes_gt_4kw": {
+    "Appliance1": 662,
+    "Appliance2": 18,
+    "Appliance3": 38,
+    "Appliance4": 2014,
+    "Appliance5": 156,
+    "Appliance6": 24,
+    "Appliance7": 3,
+    "Appliance8": 88,
+    "Appliance9": 35
+  },
+  "agg_extreme_gt_25kw": 0,
+  "negative_counts": {
+    "Aggregate": 0,
+    "Appliance1": 0,
+    "Appliance2": 0,
+    "Appliance3": 0,
+    "Appliance4": 0,
+    "Appliance5": 0,
+    "Appliance6": 0,
+    "Appliance7": 0,
+    "Appliance8": 0,
+    "Appliance9": 0
+  }
+}
